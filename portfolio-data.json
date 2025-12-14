@@ -1,0 +1,263 @@
+{
+  "settings": {
+    "name": "Awan Gurun Gunarso",
+    "title": "AI Operations Language Data Analyst",
+    "location": "Taipei, Taiwan",
+    "summary": "Experienced AI Operations Language Data Analyst with expertise in data annotation, content moderation, and ethical AI practices.",
+    "profileImage": "https://drive.google.com/file/d/1tGVArgG70Oqs_bPBHqV9BrLl4_KNaaoE/view?usp=drivesdk"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:awangunarso92@outlook.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "#"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "Operating Windows and MS Office",
+          "Internet Applications",
+          "JoinNet",
+          "Operation Research",
+          "Statistical Analysis",
+          "Analyzing and Optimization",
+          "Designing Websites",
+          "Teaching and Learning Online",
+          "AI/ML",
+          "Natural Language Processing"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "Microsoft",
+          "position": "AI Operations Language Data Analyst",
+          "period": "Mar 2021 - Apr 2025",
+          "description": "Utilized in-house tools for audio transcription and data annotation, reviewed online/offline content, performed quality evaluations, managed content moderation projects, developed operational guidelines for Responsible AI, delivered high-quality transcriptions for AI/ML training, collaborated with cross-regional teams for training and onboarding, and streamlined wellbeing activities."
+        },
+        {
+          "company": "Universitas Terbuka Taiwan (UT-Taiwan)",
+          "position": "Administrative Staff",
+          "period": "2019 - 2020",
+          "description": "Recruited, coordinated, and evaluated 7 tutors, planned and supervised Face-to-Face tutorials as Student Coordinator, and conducted academic evaluations."
+        },
+        {
+          "company": "PT. Bank Rakyat Indonesia. Persero Tbk",
+          "position": "Customer Service Representative",
+          "period": "June 2014 - July 2018",
+          "description": "Processed customer transactions, maintained cash drawers, advised on banking products, conducted primary research on banking products, compiled financial/statistical information, and provided in-person/phone support to customers."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "Facilitator in the 'Transcription Workshop' project",
+          "description": "Simulated real production procedures, enhancing teammates' comprehension of the production and review process and maintaining knowledge of the guidelines.",
+          "tags": [
+            "Transcription",
+            "Data Annotation",
+            "Content Moderation"
+          ],
+          "previewUrl": null,
+          "repoUrl": null
+        },
+        {
+          "title": "Lead Facilitator in the 'Knowledge Sharing' session",
+          "description": "Enhanced team collaboration and understanding of key concepts by sharing insights.",
+          "tags": [
+            "Knowledge Sharing",
+            "Team Collaboration",
+            "Microsoft"
+          ],
+          "previewUrl": null,
+          "repoUrl": null
+        },
+        {
+          "title": "Member of the 'Be Well Champion' Pillar team project",
+          "description": "Created diverse and engaging activities to foster better team environments and increase team morale.",
+          "tags": [
+            "Team Building",
+            "Wellbeing",
+            "Microsoft"
+          ],
+          "previewUrl": null,
+          "repoUrl": null
+        },
+        {
+          "title": "Captain leader of the Sustainability Initiative project named 'Ecochallenge 2022'",
+          "description": "Engaged all Full-Time Employees (FTE) in community-based sustainability learning and activities, empowering them to make sustainable changes.",
+          "tags": [
+            "Sustainability",
+            "Community",
+            "Microsoft"
+          ],
+          "previewUrl": null,
+          "repoUrl": null
+        },
+        {
+          "title": "Lead facilitator in the Project 'Quantum Calibate'",
+          "description": "Participated in Calibration Exercise HITApp and Training HITApp Update, contributed to project success by recruiting Ground Truth Specialists and facilitating launch of initiatives.",
+          "tags": [
+            "Calibration",
+            "Training",
+            "Microsoft"
+          ],
+          "previewUrl": null,
+          "repoUrl": null
+        },
+        {
+          "title": "Acculturation and Adaptation Strategies of Indonesian and European Students Studying in Taiwan",
+          "description": "Case Study in NTUST (2019).",
+          "tags": [
+            "Research",
+            "Sociology"
+          ],
+          "previewUrl": null,
+          "repoUrl": null
+        },
+        {
+          "title": "English Language Needs and Challenges Faced by Nurses Engaged in Their Interactions with Foreign Patients",
+          "description": "Case Study of Heping Hospital in Taiwan (2020).",
+          "tags": [
+            "Research",
+            "Healthcare",
+            "Linguistics"
+          ],
+          "previewUrl": null,
+          "repoUrl": null
+        },
+        {
+          "title": "An Analysis of Illocutionary Acts in Speech of Joe Biden at the Presidential Nominee",
+          "description": "(2012).",
+          "tags": [
+            "Linguistics",
+            "Political Science"
+          ],
+          "previewUrl": null,
+          "repoUrl": null
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "National Taiwan University of Science and Technology (NTUST)",
+          "degree": "Master of Arts (M. Arts) in Applied Foreign Languages",
+          "period": "Sep 2018 - July 2020"
+        },
+        {
+          "institution": "Institute of Training and Education, Teachers' Association of Republic of Indonesia",
+          "degree": "Bachelor of Education (S. Pd) in English Education",
+          "period": "Sep 2009 - Nov 2013"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": [
+        {
+          "title": "The Best Participant of DLC Partner",
+          "description": "Held by Digital Learning Companion, Ministry of Education, NTUST - Taiwan, 2018."
+        },
+        {
+          "title": "Motivator for Sharing Session - How to Get Scholarship at Taiwan Tech",
+          "description": "Held by LKP Pancasakti, Univ. Pancasakti - Indonesia, 2019."
+        },
+        {
+          "title": "Keynote Speaker of Sharing Session - Apa Kabar Alumni (Voice of Alumni)",
+          "description": "Held by English Education Department, Univ. PGRI Semarang - Indonesia, 2020."
+        },
+        {
+          "title": "Recognized as the 'Wellness Warrior'",
+          "description": "For promoting work-life balance and wellbeing activities in team locally and globally, organized by 'Team Vision Catalyst Challenge'."
+        },
+        {
+          "title": "Participated successfully in Hackathon project – 'Translathon'",
+          "description": "Achieved several notable accomplishments that had a significant impact on various stakeholders, including Microsoft customers, field and product groups, and the broader community of LLM users and researchers focused on Responsible AI."
+        },
+        {
+          "title": "Badan Usaha Milik Negara (BUMN) Scholarship",
+          "description": "Indonesia Government for Bachelor Degree | 2010 - 2013"
+        },
+        {
+          "title": "Full Scholarship Awardee",
+          "description": "National Taiwan University of Science and Technology (NTUST), Taiwan, for Master's degree | 2018 - 2020"
+        },
+        {
+          "title": "Ministry of Education, Indonesia, Project Grant",
+          "description": "Jan 2012 - Jun 2012"
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "awangunarso92@outlook.com",
+      "phone": "+886917856403",
+      "location": "Taiwan"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "wordpress",
+          "url": "https://awangunarso873263893.wordpress.com/",
+          "icon": "globe"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Awan Gurun Gunarso. All rights reserved."
+  }
+}
